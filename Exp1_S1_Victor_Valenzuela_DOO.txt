@@ -1,0 +1,7 @@
+Saludos, profesor:
+
+Esta semana fue muy interesante, ya que comienza a tomar más sentido algunas de las cosas que apliqué el bimestre pasado. Como mencionó usted en la clase sincrónica, la verdad es que realizar el paso a paso de la estructura del código es fundamental para entender cómo funciona y por qué tiene esa forma.
+
+Quizás suene un poco soberbio, pero lo más fácil de esta semana fue definir los atributos y constructores. A pesar de eso, la aplicación del encapsulamiento y la definición de los métodos get y set fueron un poco más complejas de desarrollar, especialmente hasta llegar a la integración con el main y realizar el llamado para poder acceder a los productos e imprimirlos en consola.
+
+En general, fue una experiencia muy buena y me ayudó a comprender mejor la lógica detrás del código y la importancia de aplicar correctamente los principios de la POO.
